@@ -1,4 +1,4 @@
-### Descripción
+# Descripción
 - **modelos/**  
   Contiene las clases que representan las entidades del sistema.
 - **servicios/**  
@@ -44,3 +44,4 @@ El sistema permite:
 - Listar libros prestados a un usuario
 - Ver catálogo de libros disponibles
 ---
+AUTOR: ERICK PÁRRAGA
