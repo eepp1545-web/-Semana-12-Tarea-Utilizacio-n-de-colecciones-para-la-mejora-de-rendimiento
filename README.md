@@ -7,28 +7,6 @@
   Punto de arranque del programa y menú interactivo.
 
 ---
-# Clases del sistema
-## 📖 Libro
-Representa un libro dentro del sistema.
-Atributos:
-- Título y autor (almacenados como **tupla**)
-- Categoría
-- ISBN (identificador único)
----
-## Usuario
-Representa un usuario registrado en la biblioteca.
-Atributos:
-- Nombre
-- ID de usuario
-- Lista de libros prestados (**lista**)
----
-## BibliotecaServicio
-Gestiona la lógica principal del sistema.
-Utiliza:
-- **Diccionario** → para almacenar libros disponibles  
-- **Set (conjunto)** → para IDs únicos de usuarios  
-- **Lista** → para libros prestados de cada usuario
----
 # Funcionalidades del sistema
 El sistema permite:
 - Añadir libros
